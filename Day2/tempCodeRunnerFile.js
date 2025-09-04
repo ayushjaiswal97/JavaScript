@@ -1,0 +1,1 @@
+console.log(`Factorial of ${num} is ${factorial}`);
