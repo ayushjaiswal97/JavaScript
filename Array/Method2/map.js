@@ -23,3 +23,9 @@ console.log(dbld);
 var check = arr.map((x) => x>5)
 console.log(check);
 
+let abc = [11,23,4,5,78]
+let newArr1 = abc.map(function(val){
+    return 12;
+});
+console.log(newArr1);
+

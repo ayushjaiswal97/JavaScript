@@ -1,0 +1,2 @@
+rse();
+console.log(arr);
