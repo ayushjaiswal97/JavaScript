@@ -3,3 +3,4 @@ var a = arr.every((item, index)=>{
     return item>0;
 });
 console.log(a);
+
